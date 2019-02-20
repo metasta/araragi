@@ -1,0 +1,111 @@
+[AraragiSans-ExtraLight]
+	f=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF
+	s=3,1,0x411,ExtraLight
+	l=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF ExtraLight
+	f=Araragi Sans
+	s=ExtraLight
+	l=Araragi Sans ExtraLight
+
+[AraragiSans-Light]
+	f=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Light
+	l=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF Light
+	f=Araragi Sans
+	s=Light
+	l=Araragi Sans Light
+
+[AraragiSans-Normal]
+	f=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Normal
+	l=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF Normal
+	f=Araragi Sans
+	s=Normal
+	l=Araragi Sans Normal
+
+[AraragiSans-Regular]
+	f=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Regular
+	l=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF Regular
+	f=Araragi Sans
+	s=Regular
+	l=Araragi Sans Regular
+
+[AraragiSans-Medium]
+	f=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Medium
+	l=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF Medium
+	f=Araragi Sans
+	s=Medium
+	l=Araragi Sans Medium
+
+[AraragiSans-Bold]
+	f=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Bold
+	l=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF Bold
+	f=Araragi Sans
+	s=Bold
+	l=Araragi Sans Bold
+
+[AraragiSans-Heavy]
+	f=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF
+	s=3,1,0x411,Heavy
+	l=3,1,0x411,\3042\3089\309D\304E\30B4\30B7\30C3\30AF Heavy
+	f=Araragi Sans
+	s=Heavy
+	l=Araragi Sans Heavy
+
+[AraragiSerif-ExtraLight]
+	f=3,1,0x411,\3042\3089\309D\304E\660E\671D
+	s=3,1,0x411,ExtraLight
+	l=3,1,0x411,\3042\3089\309D\304E\660E\671D ExtraLight
+	f=Araragi Serif
+	s=ExtraLight
+	l=Araragi Serif ExtraLight
+
+[AraragiSerif-Light]
+	f=3,1,0x411,\3042\3089\309D\304E\660E\671D
+	s=3,1,0x411,Light
+	l=3,1,0x411,\3042\3089\309D\304E\660E\671D Light
+	f=Araragi Serif
+	s=Light
+	l=Araragi Serif Light
+
+[AraragiSerif-Regular]
+	f=3,1,0x411,\3042\3089\309D\304E\660E\671D
+	s=3,1,0x411,Regular
+	l=3,1,0x411,\3042\3089\309D\304E\660E\671D Regular
+	f=Araragi Serif
+	s=Regular
+	l=Araragi Serif Regular
+
+[AraragiSerif-Medium]
+	f=3,1,0x411,\3042\3089\309D\304E\660E\671D
+	s=3,1,0x411,Medium
+	l=3,1,0x411,\3042\3089\309D\304E\660E\671D Medium
+	f=Araragi Serif
+	s=Medium
+	l=Araragi Serif Medium
+
+[AraragiSerif-SemiBold]
+	f=3,1,0x411,\3042\3089\309D\304E\660E\671D
+	s=3,1,0x411,SemiBold
+	l=3,1,0x411,\3042\3089\309D\304E\660E\671D SemiBold
+	f=Araragi Serif
+	s=SemiBold
+	l=Araragi Serif SemiBold
+
+[AraragiSerif-Bold]
+	f=3,1,0x411,\3042\3089\309D\304E\660E\671D
+	s=3,1,0x411,Bold
+	l=3,1,0x411,\3042\3089\309D\304E\660E\671D Bold
+	f=Araragi Serif
+	s=Bold
+	l=Araragi Serif Bold
+
+[AraragiSerif-Heavy]
+	f=3,1,0x411,\3042\3089\309D\304E\660E\671D
+	s=3,1,0x411,Heavy
+	l=3,1,0x411,\3042\3089\309D\304E\660E\671D Heavy
+	f=Araragi Serif
+	s=Heavy
+	l=Araragi Serif Heavy
