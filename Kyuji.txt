@@ -1,9 +1,9 @@
 # Kyuji.txt
 #
 # [異体字データベース](https://github.com/cjkvi/cjkvi-variants) にある
-# jp-old-style.txt の内容をベースにしている。
+# jp-old-style.txt の内容をベースに作成した。
 #
-# 1列目に置換対象の文字、2列目に置換後の字形を（必要ならIVSつきで）指定。
+# 1列目に置換対象の文字、2列目に置換後の字形を（必要ならIVSつきで）指定する。
 #
 #
 #
