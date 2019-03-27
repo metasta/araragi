@@ -19,7 +19,7 @@ https://github.com/metasta/araragi/archive/OTF.zip
 
 ## コメント
 
-以前「馬酔木明朝 https://metasta.github.io/asebi/」を作ったとき  
+以前「[馬酔木明朝](https://metasta.github.io/asebi/)」を作ったとき  
 「馬酔木明朝ボールドも作りたい」「馬酔木ゴシックも作りたい」と思ったのですが、  
 IPAmj明朝には太字もゴシック版もないため実現できませんでした。
 
@@ -36,6 +36,6 @@ IPAmj明朝には太字もゴシック版もないため実現できませんで
 
 ## 謝辞
 
-「源ノ角ゴシック」、「源ノ明朝」、そして私の旧字フォントづくりのきっかけとなった「五月雨明朝 http://home.q02.itscom.net/tosyokan/tuyuzora.htm 」に感謝します。
+「源ノ角ゴシック」、「源ノ明朝」、そして私の旧字フォントづくりのきっかけとなった「[五月雨明朝](http://home.q02.itscom.net/tosyokan/tuyuzora.htm)」に感謝します。
 
 2019.3.27 metasta
