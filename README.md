@@ -7,11 +7,11 @@
 「源ノ明朝」「源ノ角ゴシック」の漢字を旧字に置換した旧字フォントです。  
 明朝／ゴシックそれぞれ、Extra Light から Heavy まで7ウェイトあります。
 
-置換した旧字のリストは https://github.com/metasta/araragi/blob/master/Kyuji.txt にあります。
+置換した旧字のリストは [Kyuji.txt](https://github.com/metasta/araragi/blob/master/Kyuji.txt) にあります。
 
 ## ダウンロード
 
-https://github.com/metasta/araragi/archive/OTF.zip
+[OTF.zip](https://github.com/metasta/araragi/archive/OTF.zip)
 
 ## ライセンス
 
